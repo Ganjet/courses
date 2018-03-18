@@ -1,0 +1,37 @@
+.titleContact{
+    margin: 25px 0px;
+}
+.blackColor {
+    color: black;
+    margin: 5px 0px;
+}
+.avatar {
+    text-align: center;
+}
+.avatar img{
+    max-width: 80%;
+    border-radius: 10%;
+    max-height: 80%;
+    margin-top: 25px;
+}
+ul {
+    list-style-type: none;
+    color: black;
+}
+li:before {
+    content: "<>";
+    display: block;
+    float: left;
+    width: 1.2em;
+    color: #ff0000;
+    margin: 2px;
+}
+li {
+    margin: 2px;
+}
+.liHead {
+    font-size: 20px;
+}
+.contacts {
+    margin: 25px 0px;
+}

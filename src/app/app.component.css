@@ -1,0 +1,10 @@
+.titel h1 {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+  }
+
+.titel {
+  /* background: #0089D7; */
+  border-radius: 15px
+}

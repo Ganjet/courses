@@ -1,0 +1,28 @@
+.titlePost {
+    color: #19A0C3;
+    font-size: 20px;
+    line-height: 10px;
+}
+.titlePost:hover {
+    text-decoration: none;
+}
+
+.postRow{
+    background-color: #DBF7FA;
+    margin: 25px 0px;
+    padding: 20px 0px;
+    border-radius: 100px;
+}
+.postRow:hover {
+
+    margin: 25px 0px;
+    background-color: #BDD275
+}
+.paginatorPost{
+    display: -webkit-box;  
+    display: -ms-flexbox; 
+    display: -webkit-flex; 
+    display: flex;        
+    justify-content: center;
+    align-items: center
+}
